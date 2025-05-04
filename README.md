@@ -1,19 +1,79 @@
-## Hi there! 👋
+<h1 align="center">
+  🌸 Welcome to My World 🌸<br>
+  <span style="font-size:2em;color:#f472b6;">I'm Xlennz</span>
+</h1>
 
-I'm **Xlennz**, a passionate developer at **SoulPixel**. I love turning ideas into reality through code and exploring the endless possibilities in the tech world!
+<p align="center">
+  <img src="https://yourdomain.com/violet-banner.png" width="80%" alt="Violet Evergarden Elegant Banner"/>
+</p>
 
-## About Me
+---
 
-Currently working at **SoulPixel**, I enjoy building innovative solutions and collaborating with talented teams. While I'm still at the beginning of my journey in open source, I'm eager to learn and contribute!
+## 🌺 About Me
 
-## Skills & Technologies
+🧑‍💻 Developer @ **SoulPixel**  
+🎨 Aesthetics & clean code enthusiast  
+💬 Loves crafting beautiful experiences  
+📚 Inspired by stories, anime, and open source
 
-docker,html,css,react,nodejs,flutter,aws,graphql,django,git,ruby,java,postgres,redis,mongodb,flutter,vue,tailwind,bootstrap,linux,php
+<p align="center">
+  <img src="https://yourdomain.com/violet-thinking.gif" width="300" alt="Violet Evergarden thinking GIF" />
+</p>
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xlennz&show_icons=true&theme=radical)
+## 🧠 Skills & Tools I Love
 
-## Recent Activity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,flutter,django,nodejs,php,java,docker,aws,git,mongodb,postgres,graphql" />
+</p>
 
-As I'm just starting my journey on GitHub, I haven't had any recent activities yet. I'm looking forward to engaging with the community!
+<p align="center">
+  <img src="https://yourdomain.com/violet-typing.gif" width="250" alt="Violet typing on typewriter GIF"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xlennz&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Xlennz&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlennz&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+> _“Each line of code tells a part of my story.”_
+
+<p align="center">
+  <img src="https://yourdomain.com/violet-moonlight.png" width="400" alt="Violet Evergarden at night"/>
+</p>
+
+---
+
+## ✨ Currently Exploring
+
+🛠️ Building multiplayer games with WebSocket  
+🌐 Improving my DevOps skills (CI/CD, Docker, AWS)  
+🎯 Planning to contribute more to open source  
+
+---
+
+## 📬 Let's Connect!
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 🌐 [Portfolio](https://yourwebsite.com)  
+- 🧠 [Dev Blog](https://dev.to/yourname)
+
+<p align="center">
+  <img src="https://yourdomain.com/violet-flower.gif" width="120" alt="Violet flower petals"/>
+</p>
+
+---
+
+> _“Code isn’t just logic – it’s art, like letters from the heart.”_ – **Xlennz**
